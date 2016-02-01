@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://reparatrebujena.esy.es/sitemap.xml
